@@ -1,1 +1,2 @@
 # Simple-shopping-cart
+This is a simple shopping cart website written in PHP and MySQL. The website allows users to add products to their cart and displays the order details. The website uses a session to store the user's cart information. Users can also remove items from their cart. The website uses Bootstrap and jQuery to style and enhance the user interface. The website is a basic implementation of an online shopping cart and can be further customized and extended to add more features.
